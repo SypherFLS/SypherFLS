@@ -4,93 +4,85 @@
 
 **Backend Engineer · Go**
 
-Yo, I'm Sypher. 
+<sub>Yo, I'm Sypher. Ships quietly.</sub>
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-SypherFLS-9D5CFF?style=flat-square&logo=github&logoColor=white)](https://github.com/SypherFLS)
 
-</div>
-
-
-## Stack
-
-<div align="center">
-
-### Backend
-
-<table>
-<tr>
-<td align="center" width="150">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="46" height="46" alt="Go"><br>
-  <sub><b>Go</b></sub>
-</td>
-<td align="center" width="150">
-  <img src="./assets/tech/gin.png" width="" height="46" alt="Gin"><br>
-  <sub><b>Gin</b></sub>
-</td>
-</tr>
-</table>
-
 <br>
 
-### Data & Infrastructure
-
-<table>
-<tr>
-<td align="center" width="150">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL"><br>
-  <sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="150">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="46" height="46" alt="Redis"><br>
-  <sub><b>Redis</b></sub>
-</td>
-<td align="center" width="150">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="46" height="46" alt="RabbitMQ"><br>
-  <sub><b>RabbitMQ</b></sub>
-</td>
-<td align="center" width="150">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="46" height="46" alt="Docker"><br>
-  <sub><b>Docker</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=go,postgres,redis,kafka,rabbitmq,docker&theme=dark" height="48" alt="Go, PostgreSQL, Redis, Kafka, RabbitMQ, Docker"/>
+</a>
+<img src="./assets/tech/gin.png" height="48" alt="Gin"/>
+<img src="./assets/tech/sql.svg" height="48" alt="SQL"/>
+<img src="./assets/tech/clickhouse.svg" height="48" alt="ClickHouse"/>
+<img src="./assets/tech/grpc.svg" height="48" alt="gRPC"/>
 
 <br><br>
 
-## Selected Work
+<h2>Projects</h2>
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/SypherFLS/ticket-master">
-  <img src="./assets/projects/ticket-master.svg" width="520" alt="Ticket Master">
+<h3>Ticket-Master</h3>
+
+Ticket management service.
+
+<a href="https://github.com/SypherFLS/Ticket-Master">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-9D5CFF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br><br>
+</td>
 
-<a href="https://github.com/SypherFLS/pushy-notify">
-  <img src="./assets/projects/pushy-notify.svg" width="520" alt="Pushy Notify">
+<td width="50%" valign="top">
+
+<h3>Pushy-Notify</h3>
+
+Telegram bot for GitHub commit notifications.
+
+<a href="https://github.com/SypherFLS/pushy_notify">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-9D5CFF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br><br>
+</td>
+</tr>
 
-<a href="https://github.com/SypherFLS/veltiq">
-  <img src="./assets/projects/veltiq.svg" width="520" alt="Veltiq">
+<tr>
+<td width="50%" valign="top">
+
+<h3>Veltiq</h3>
+
+Receipt analytics service for small and medium-sized retail businesses.
+
+<a href="https://github.com/SypherFLS/Veltiq">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-9D5CFF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+</td>
 
+<td width="50%" valign="top">
 
+<h3>Backend Focus</h3>
+
+Go services, queues and storage. APIs that stay up and say little.
+
+<a href="https://github.com/SypherFLS">
+<img src="https://img.shields.io/badge/ALL_PROJECTS-9D5CFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
 </table>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SypherFLS&show_icons=true&hide_border=true&theme=transparent&title_color=9D5CFF&icon_color=9D5CFF&text_color=8B8B98&bg_color=00000000&rank_icon=github" height="165" alt="GitHub stats"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SypherFLS&layout=compact&hide_border=true&theme=transparent&title_color=9D5CFF&text_color=8B8B98&bg_color=00000000" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SypherFLS&show_icons=true&hide_border=true&theme=transparent&title_color=9D5CFF&icon_color=9D5CFF&text_color=8B8B98&bg_color=00000000&rank_icon=github" height="150" alt="GitHub stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SypherFLS&layout=compact&hide_border=true&theme=transparent&title_color=9D5CFF&text_color=8B8B98&bg_color=00000000" height="150" alt="Top languages"/>
 
 <br><br>
 
