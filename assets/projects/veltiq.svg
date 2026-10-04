@@ -1,0 +1,29 @@
+<svg width="470" height="245" viewBox="0 0 470 245" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="470" y2="245" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#121219"/>
+    <stop offset="1" stop-color="#07070A"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="20" y1="20" x2="450" y2="225" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#B45CFF" stop-opacity=".95"/>
+    <stop offset="1" stop-color="#B45CFF" stop-opacity=".08"/>
+  </linearGradient>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="8" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect x="1" y="1" width="468" height="243" rx="18" fill="url(#bg)" stroke="#B45CFF" stroke-opacity=".32"/>
+<rect x="1" y="1" width="468" height="5" rx="2.5" fill="#B45CFF" fill-opacity=".85"/>
+<circle cx="418" cy="54" r="39" fill="#B45CFF" fill-opacity=".08"/>
+<circle cx="418" cy="54" r="28" fill="#B45CFF" fill-opacity=".09" filter="url(#glow)"/>
+<text x="418" y="64" text-anchor="middle" font-family="monospace" font-size="25" font-weight="700" fill="#B45CFF">VQ</text>
+<text x="30" y="48" font-family="monospace" font-size="11" fill="#B45CFF" letter-spacing="2">03 / ARCHITECTURE</text>
+<text x="30" y="92" font-family="Inter,Arial,sans-serif" font-size="25" font-weight="800" fill="#F5F5F7">VELTIQ</text>
+<text x="30" y="121" font-family="Inter,Arial,sans-serif" font-size="13.5" fill="#A5A5B0">Receipt-book analysis platform</text>
+<line x1="30" y1="148" x2="440" y2="148" stroke="#25252E"/>
+<text x="30" y="177" font-family="monospace" font-size="11" fill="#777782">STACK</text>
+<text x="30" y="201" font-family="monospace" font-size="12.5" fill="#D9D9E0">Go · PostgreSQL · Modular Monolith</text>
+<circle cx="30" cy="224" r="3" fill="#B45CFF"/>
+<text x="42" y="228" font-family="monospace" font-size="10.5" fill="#6F6F7A">open source · engineering project</text>
+</svg>
