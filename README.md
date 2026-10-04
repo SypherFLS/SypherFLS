@@ -1,10 +1,6 @@
 <div align="center">
 
-# SypherFLS
-
-**Backend Engineer · Go**
-
-<sub>Yo, I'm Sypher. Ships quietly.</sub>
+# Yo, I'm Sypher. Backend Engineer
 
 <br>
 
