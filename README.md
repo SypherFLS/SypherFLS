@@ -2,73 +2,102 @@
 
 # SypherFLS
 
-### Backend Engineer
+**Backend Engineer · Go**
 
-`Go` · `Backend` · `Systems`
+Yo, I'm Sypher. 
 
-<br>
-
-<img src="./assets/tech/go.svg" width="220"/>
-<img src="./assets/tech/postgresql.svg" width="220"/>
-<img src="./assets/tech/docker.svg" width="220"/>
-<img src="./assets/tech/rabbitmq.svg" width="220"/>
-
-<br>
-
-<img src="./assets/tech/gin.svg" width="220"/>
-<img src="./assets/tech/redis.svg" width="220"/>
-<img src="./assets/tech/gorm.svg" width="220"/>
+[![GitHub](https://img.shields.io/badge/GitHub-SypherFLS-9D5CFF?style=flat-square&logo=github&logoColor=white)](https://github.com/SypherFLS)
 
 </div>
 
+
+## Stack
+
+<div align="center">
+
+### Backend
+
+<table>
+<tr>
+<td align="center" width="150">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="46" height="46" alt="Go"><br>
+  <sub><b>Go</b></sub>
+</td>
+<td align="center" width="150">
+  <img src="./assets/tech/gin.png" width="" height="46" alt="Gin"><br>
+  <sub><b>Gin</b></sub>
+</td>
+<td align="center" width="150">
+  <img src="./assets/tech/gorm.png" width="66" height="24" alt="GORM"><br><br>
+  <sub><b>GORM</b></sub>
+</td>
+</tr>
+</table>
+
 <br>
+
+### Data & Infrastructure
+
+<table>
+<tr>
+<td align="center" width="150">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL"><br>
+  <sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="150">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="46" height="46" alt="Redis"><br>
+  <sub><b>Redis</b></sub>
+</td>
+<td align="center" width="150">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="46" height="46" alt="RabbitMQ"><br>
+  <sub><b>RabbitMQ</b></sub>
+</td>
+<td align="center" width="150">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="46" height="46" alt="Docker"><br>
+  <sub><b>Docker</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br><br>
 
 ## Selected Work
 
 <div align="center">
 
-<a href="https://github.com/SypherFLS">
-  <img src="./assets/projects/ticket-master.svg" width="470"/>
+<a href="https://github.com/SypherFLS/ticket-master">
+  <img src="./assets/projects/ticket-master.svg" width="520" alt="Ticket Master">
 </a>
 
-<a href="https://github.com/SypherFLS">
-  <img src="./assets/projects/pushy-notify.svg" width="470"/>
+<br><br><br>
+
+<a href="https://github.com/SypherFLS/pushy-notify">
+  <img src="./assets/projects/pushy-notify.svg" width="520" alt="Pushy Notify">
 </a>
 
-<a href="https://github.com/SypherFLS">
-  <img src="./assets/projects/veltiq.svg" width="470"/>
+<br><br><br>
+
+<a href="https://github.com/SypherFLS/veltiq">
+  <img src="./assets/projects/veltiq.svg" width="520" alt="Veltiq">
 </a>
 
 </div>
 
-<br>
 
-## Focus
-
-```text
-backend engineering
-system design
-concurrency
-databases
-distributed systems
-reliable software
-```
+</table>
 
 <br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SypherFLS&show_icons=true&hide_border=true&theme=transparent&title_color=9D5CFF&icon_color=9D5CFF&text_color=8B8B98&bg_color=00000000&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SypherFLS&layout=compact&hide_border=true&theme=transparent&title_color=9D5CFF&text_color=8B8B98&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SypherFLS&show_icons=true&hide_border=true&theme=transparent&title_color=9D5CFF&icon_color=9D5CFF&text_color=8B8B98&bg_color=00000000&rank_icon=github" height="165" alt="GitHub stats"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SypherFLS&layout=compact&hide_border=true&theme=transparent&title_color=9D5CFF&text_color=8B8B98&bg_color=00000000" height="165" alt="Top languages"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-```text
-keep building.
-```
+<sub><code>keep building</code></sub>
 
 </div>

@@ -1,8 +1,8 @@
 # Profile assets
 
-SVG cards used by the SypherFLS profile README.
+Visual assets used by the SypherFLS GitHub profile.
 
-- `tech/` — technology cards
-- `projects/` — selected project cards
+- `projects/` — custom project cards in the profile's dark / violet visual style.
+- `tech/` — legacy technology cards kept for reuse; the current README uses real Devicon logos directly for the stack.
 
-The cards are intentionally self-contained SVGs so the profile does not depend on external badge services for its visual identity.
+The README intentionally keeps project cards local while using Devicon's official icon set for recognizable technology logos.
