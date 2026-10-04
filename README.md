@@ -27,10 +27,6 @@ Yo, I'm Sypher.
   <img src="./assets/tech/gin.png" width="" height="46" alt="Gin"><br>
   <sub><b>Gin</b></sub>
 </td>
-<td align="center" width="150">
-  <img src="./assets/tech/gorm.png" width="66" height="34" alt="GORM"><br>
-  <sub><b>GORM</b></sub>
-</td>
 </tr>
 </table>
 
@@ -98,6 +94,6 @@ Yo, I'm Sypher.
 
 <br><br>
 
-<sub><code>keep building</code></sub>
+<sub><code>keep building.</code></sub>
 
 </div>
