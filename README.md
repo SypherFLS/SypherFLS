@@ -62,7 +62,7 @@ Receipt analytics service for small and medium-sized retail businesses.
 
 <td width="50%" valign="top">
 
-<h3>Backend Focus</h3>
+<h3>MD5-checker</h3>
 
 REST api service for sharing information about threats.
 
