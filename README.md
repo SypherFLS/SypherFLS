@@ -67,7 +67,7 @@ Receipt analytics service for small and medium-sized retail businesses.
 REST api service for sharing information about threats.
 
 <a href="https://github.com/SypherFLS/md5-checker">
-<img src="https://img.shields.io/badge/ALL_PROJECTS-9D5CFF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-9D5CFF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
