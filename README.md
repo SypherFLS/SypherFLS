@@ -52,9 +52,9 @@ Telegram bot for GitHub commit notifications.
 
 <h3>Veltiq</h3>
 
-Receipt analytics service for small and medium-sized retail businesses.
+Service of generation qr codes.
 
-<a href="https://github.com/SypherFLS/Veltiq">
+<a href="https://github.com/SypherFLS/qr-code-gen">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-9D5CFF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
