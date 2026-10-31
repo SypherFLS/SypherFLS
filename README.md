@@ -74,14 +74,26 @@ REST api service for sharing information about threats.
 </tr>
 </table>
 
+ <br>
+
+<h2 align="center">GitHub Statistics</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./profile/stats.svg" width="100%" alt="GitHub Stats"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="./profile/top-langs.svg" width="100%" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SypherFLS&show_icons=true&hide_border=true&theme=transparent&title_color=9D5CFF&icon_color=9D5CFF&text_color=8B8B98&bg_color=00000000&rank_icon=github" height="150" alt="GitHub stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SypherFLS&layout=compact&hide_border=true&theme=transparent&title_color=9D5CFF&text_color=8B8B98&bg_color=00000000" height="150" alt="Top languages"/>
-
-<br><br>
-
-<sub><code>keep building.</code></sub>
-
+<div align="center">
+  <sub><code>keep building.</code></sub>
 </div>
+
