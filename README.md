@@ -50,7 +50,7 @@ Telegram bot for GitHub commit notifications.
 <tr>
 <td width="50%" valign="top">
 
-<h3>Veltiq</h3>
+<h3>Qr-code-gen</h3>
 
 Service of generation qr codes.
 
